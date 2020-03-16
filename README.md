@@ -1,9 +1,12 @@
+
 **Equipo:**
 Aliadxs Sin Fronteras.
 
 **Miembros del equipo:**
-Karina Enriquez Guillén.
-Rafael Pérez Estrada.
+<br/>Karina Enriquez Guillén.<br/>
+contact: karienriquezguillen@gmail.com<br/>
+Rafael Pérez Estrada.<br/>
+contact: tinoco21.30@gmail.com
 
 **1.1 Planteamiento del problema.**
 En la actualidad el ser humano cuenta con varios medios que le ayudan a conocer y mantenerse informado sobre todos los acontecimientos que suceden en el mundo, gracias a que tiene a su alcance diferentes dispositivos que le permiten realizar dicha tarea. 

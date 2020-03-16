@@ -28,26 +28,26 @@ correctamente y sin mucho esfuerzo en buscar noticias veraces, que adquiera recu
 **1.5 Recursos a utilizar.**
 A continuación brindamos una lista de links de páginas informativas expertas en el tema con los cuales tenemos planeado trabajar, dependiendo del desarrollo del 
 proyecto se agregarán más o algunas se eliminarán de las opciones.
-Páginas propuestas:
-	1.https://eldiadespues.mx/noticias/
-	2.https://mexico.unwomen.org/es
-	3.https://lasdelaquelarrefeminista.com/
-	4.http://www.mujeresenred.net/
-	5.https://amnistia.org.mx/
-	6.https://www.gritatuaborto.com/recursos
-	7.https://malvestida.com/
-	8.https://www.gob.mx/inmujeres#3046
-	9.https://www.latraductora.mx/blog
-	10.https://www.animalpolitico.com/
-Cuentas de instagram propuestas:
-	1.https://instagram.com/latraductoramx?igshid=11go45mzqjwn4
-	2.https://instagram.com/lasdelaquelarre.feministas?igshid=6lcgtemnly56
-	3.https://instagram.com/malvestida?igshid=1qbq8j88tgmz
-	4.https://instagram.com/mxmareaverde?igshid=bm4zn2fn66zs
-	5.https://instagram.com/cold_press_news?igshid=14scx21tzlfb7
-	6.https://instagram.com/eldiadespuesmx?igshid=1jbhra8ba91eo
-	7.https://instagram.com/nastyfeminasty?igshid=nogsb733hsy7
-	8.https://instagram.com/soreceac?igshid=5hkxkask1njj
-	9.https://instagram.com/sinfronterascolectivo?igshid=1wr4nl7o3qzk5
-	10.https://instagram.com/onumujeresmx?igshid=1e85q6r0aqkw8
+<br/>Páginas propuestas:<br/>
+	1.https://eldiadespues.mx/noticias/<br/>
+	2.https://mexico.unwomen.org/es<br/>
+	3.https://lasdelaquelarrefeminista.com/<br/>
+	4.http://www.mujeresenred.net/<br/>
+	5.https://amnistia.org.mx/<br/>
+	6.https://www.gritatuaborto.com/recursos<br/>
+	7.https://malvestida.com/<br/>
+	8.https://www.gob.mx/inmujeres#3046<br/>
+	9.https://www.latraductora.mx/blog<br/>
+	10.https://www.animalpolitico.com/<br/>
+<br/><br/>Cuentas de instagram propuestas:<br/>
+	1.https://instagram.com/latraductoramx?igshid=11go45mzqjwn4<br/>
+	2.https://instagram.com/lasdelaquelarre.feministas?igshid=6lcgtemnly56<br/>
+	3.https://instagram.com/malvestida?igshid=1qbq8j88tgmz<br/>
+	4.https://instagram.com/mxmareaverde?igshid=bm4zn2fn66zs<br/>
+	5.https://instagram.com/cold_press_news?igshid=14scx21tzlfb7<br/>
+	6.https://instagram.com/eldiadespuesmx?igshid=1jbhra8ba91eo<br/>
+	7.https://instagram.com/nastyfeminasty?igshid=nogsb733hsy7<br/>
+	8.https://instagram.com/soreceac?igshid=5hkxkask1njj<br/>
+	9.https://instagram.com/sinfronterascolectivo?igshid=1wr4nl7o3qzk5<br/>
+	10.https://instagram.com/onumujeresmx?igshid=1e85q6r0aqkw8<br/>
 </br>

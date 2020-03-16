@@ -5,7 +5,7 @@ Aliadxs Sin Fronteras.
 Karina Enriquez Guillén.
 Rafael Pérez Estrada.
 
-**1.1 Planteamiento del problema.**
+//**1.1 Planteamiento del problema.**//
 En la actualidad el ser humano cuenta con varios medios que le ayudan a conocer y mantenerse informado sobre todos los acontecimientos que suceden en el mundo, gracias a que tiene a su alcance diferentes dispositivos que le permiten realizar dicha tarea. 
 Paradójicamente a lo que pretende ser esta era contemporánea donde gobierna la globalización tecnológica, los espacios cibernéticos sin límites y la continua innovación científica, desafortunadamente en algunos contextos podríamos afirmar que estamos en una era de completa desinformación. 
 Actualmente vivimos tiempos donde la falta de veracidad en mucho de lo que se publica tiene una fuerte presencia. Esta falta de veracidad se pueden encontrar en distintos temas de la vida cotidiana, tal vez sea una nueva enfermedad, un supuesto ingrediente letalmente dañino, y la lista podría seguir. Un tema de mucha actualidad que ha causado mucha polémica y que a nosotros nos ha tenido bastante impresionados es el tema del Feminismo,un tema en el que existe demasiada desinformación tales como mitos y realidades al respecto y que en unos casos causa molestia o incomodidad, y en otros más ha desarrollado tremendas historias de una secta en la

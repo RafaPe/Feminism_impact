@@ -1,0 +1,3 @@
+# Ignore everything this file
+*
+# Do not erase

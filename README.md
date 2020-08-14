@@ -31,7 +31,6 @@ We provide a list of links to informative instagram accounts that are experts on
 - glob3 library
 - xml library
 - matplotlib library
-<br/>
 
 ## DATA SOURCE
 - Instagram
@@ -55,3 +54,26 @@ sudo pip3 install glob3
 pip3 install xml
 pip3 install matplotlib
 ```
+## OUR DATA BASE
+First of all, you have to install Server sql in your computer:
+```
+sudo apt install mysql-server
+```
+When you already have installed  and configured your SQL server, follow these instructions to create the data base:
+```
+sudo mysql -p
+CREATE DATABASE hackermxn;
+USE hackermxn;
+CREATE TABLE cuentas (nombre VARCHAR(200), seguidores BIGINT, fecha DATETIME);
+```
+Once you have finished, follow the next instructions:
+- Go to the following link and download the files 
+https://github.com/RafaPe/rep_prueba </br>
+- After you downloaded the files, you have to read config.txt, when you already finished then open your terminal and write: 
+```
+cd static
+cd xmls
+python3 insta.py
+```
+- After this, the xml files should have been generated. You can check it using the command ls, and you should see the files 
+

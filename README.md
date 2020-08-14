@@ -35,3 +35,23 @@ We provide a list of links to informative instagram accounts that are experts on
 
 ## DATA SOURCE
 - Instagram
+
+## ACHITECTURE
+- **Data Source:** Instagram
+- **Storage system:** MySQL
+- **Processing system:** Python, mysql, json
+- **Data visualization** matplotlib.pyplot
+- **View data:** Html, css, php
+
+## INSTRUCTIONS TO INSTALL AND USE
+### Libraries that you have to add
+```
+pip3 install requests
+pip3 install bs4
+pip3 install lxml
+pip3 install datetime
+pip3 install mysql.connector
+sudo pip3 install glob3
+pip3 install xml
+pip3 install matplotlib
+```

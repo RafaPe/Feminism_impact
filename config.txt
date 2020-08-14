@@ -1,0 +1,29 @@
+####################################################
+####################################################
+################   CONFIGURATION  ##################
+####################################################
+####################################################
+
+THIS CODE WAS DEVELOPED ON AND FOR: #Linux-Ubuntu
+
+
+
+# * AFTER TO CLONE OR DOWNLOAD THIS PROJECT * # You need to configure some things for optimal use
+
+############### CONFIGURATION - PATH #################
+#1
+code: insertSQL.py
+where: line 13
+do: You need to change the user and password to the ones ypu use in your database
+#2
+code: plotdb.py
+where: line 16
+do: You need to change the user and password to the ones ypu use in your database
+
+© 2020 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Help
+

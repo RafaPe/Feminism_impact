@@ -35,7 +35,7 @@ We provide a list of links to informative instagram accounts that are experts on
 ## DATA SOURCE
 - Instagram
 
-## ACHITECTURE
+## ARCHITECTURE
 - **Data Source:** Instagram
 - **Storage system:** MySQL
 - **Processing system:** Python, mysql, json

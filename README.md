@@ -76,7 +76,8 @@ cd xmls
 python3 insta.py
 ```
 - After this, the xml files should have been generated. You can check it using the command ls, and you should see the files 
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/ter1.PNG
+
+ ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/ter1.PNG)
 
 
 - Next continue writing in the terminal the following commands: 
@@ -91,7 +92,8 @@ mysql -u
 *your username* -p,
 ```
 - Then typing your password, and then using the database called **hackermxn**. Then you can use the query **SELECT * FROM cuentas;** to see all the records in the table. You should see something like this:
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaacc.PNG
+
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaacc.PNG)
 
 - Then you can use **ctrl + d** to close your session in the SQL server and you can continue.
 - Finally just type
@@ -100,7 +102,8 @@ python3 plotdb.py
 ```
 - This last step should plot separately all the accounts, therefore the plot should be empty at first. Repeat this process and the plot should not be empty anymore.  
 - After some iterations over these steps, you should be able to see something like this:
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaccgraph.PNG
+
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaccgraph.PNG)
  
  ## ABSTRACT
 Nowadays, human beings have many tools that help them to know and keep informed about all the events that happen in the world, because of the different devices that allow them to do their tasks.<br/>
@@ -114,19 +117,19 @@ As a team, we think that Feminism is a very important topic, but highly criticiz
 ## IMPLEMENTATION AND TESTS
 - We wanted to use this proyect to visualize the growth in certain intagram accounts. In order to do this, the code should be able to run periodically, thats why we decided to use cron to schedule running times and keep our proyect running automatically. In our case we decided to configure crontab so that our proyect would run every 4 hours.
 
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/crontab.PNG
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/crontab.PNG)
 
 ### CONCURRENCY DIAGRAM
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/concurrency.PNG
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/concurrency.PNG)
 
 - Then we wanted to show this info on the internet, so we uploaded all the proyect to a web server.
 
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/mapadist.PNG
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/mapadist.PNG)
 
 ### WEB SITE
 -  Finally we decided to use php/html/css to make the layout of our proyect. We decided make it like a blog web page.
 
-https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/paginaweb.PNG
+![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/paginaweb.PNG)
 
 ## CONCLUSIONS
 Our project is not done yet, we want to create a full platform to help people interested in feminist movement, to know more about it with the correct information, news, books, etc. 

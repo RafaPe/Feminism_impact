@@ -8,6 +8,8 @@ import time
 #start = time.time()
 
 instagram_url = 'https://www.instagram.com/'
+PATH='../static/xmls/'
+
 
 def followers(profile: str):
     url = instagram_url + profile
@@ -59,7 +61,7 @@ for cuenta in cuentas:
     myXML = myXML + '</account>'
     
     filename = cuenta + dt + '.xml' 
-    with open(filename, 'w') as file:
+    with open(PATH+filename, 'w') as file:
         file.write(myXML)
 
 #print('Tiempo de ejecución:', time.time()-start)

@@ -10,9 +10,11 @@ import time
 #start = time.time()
 
 print('COMENZANDO PROCESO')
-config = {'user':'XXXX','password':'XXXX','host':'127.0.0.1','database':'hackermxn'}
 
-path = 'xmls/'
+with open('../config/db.json') as json_file:
+    config = json.load(json_file)
+
+path = '../static/xmls/'
 
 
 try:

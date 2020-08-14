@@ -13,8 +13,12 @@ plt.style.use('fivethirtyeight')
 
 #start = time.time()
 
-config = {'user':'XXXX','password':'XXXX','host':'127.0.0.1','database':'hackermxn'}
-path = 'xmls/'
+with open('../config/db.json') as json_file:
+    config = json.load(json_file)
+
+path = '../static/'
+
+
 cuentas = ['lasdelaquelarre.feministas','onumujeresmx','sinfronterascolectivo','mxmareaverde','malvestida','latraductoramx']
 #cuentas = ['sinfronterascolectivo']
 
@@ -46,7 +50,7 @@ try:
 		figure = plt.gcf()
 		figure.set_size_inches(18.5, 10.5, forward=True)
 		name = str(cuenta)+".jpg"
-		plt.savefig(name, dpi = 100, bbox_inches='tight', pad_inches=0.5)
+		plt.savefig(path+name, dpi = 100, bbox_inches='tight', pad_inches=0.5)
 		plt.clf()
 		
 

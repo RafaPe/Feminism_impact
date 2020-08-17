@@ -19,7 +19,7 @@ We provide a list of links to informative instagram accounts that are experts on
 	5. https://instagram.com/sinfronterascolectivo?igshid=1wr4nl7o3qzk5<br/>
 	6. https://instagram.com/onumujeresmx?igshid=1e85q6r0aqkw8<br/>
 </br>
-## SOFTWARE TOOLS
+## REQUIREMENTS
 - python3
 - requests library
 - bs4 library
@@ -42,7 +42,7 @@ We provide a list of links to informative instagram accounts that are experts on
 - **Data visualization** matplotlib.pyplot
 - **View data:** Html, css, php
 
-## INSTRUCTIONS TO INSTALL AND USE
+## INSTALL
 ### Libraries that you have to add
 ```
 pip3 install requests
@@ -54,54 +54,52 @@ sudo pip3 install glob3
 pip3 install xml
 pip3 install matplotlib
 ```
-## OUR DATA BASE
-First of all, you have to install Server sql in your computer:
+### Data Base
+1. Install Server sql in your computer:
 ```
 sudo apt install mysql-server
 ```
-When you already have installed  and configured your SQL server, follow these instructions to create the data base:
+2. Once installed and configured SQL server, follow these instructions:
 ```
 sudo mysql -p
 CREATE DATABASE hackermxn;
 USE hackermxn;
 CREATE TABLE cuentas (nombre VARCHAR(200), seguidores BIGINT, fecha DATETIME);
 ```
-Once you have finished, follow the next instructions:
-- Go to the following link and download the files 
+### Next Steps
+- Clone the files 
 https://github.com/RafaPe/rep_prueba </br>
-- After you downloaded the files, you have to read config.txt, when you already finished then open your terminal and write: 
+- Read config.txt, when you already finished then open your terminal and write: 
 ```
 cd static
 cd xmls
 python3 insta.py
 ```
-- After this, the xml files should have been generated. You can check it using the command ls, and you should see the files 
+- The xml files should have been generated. You can check it using the command ls, and you should see the files: 
 
  ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/ter1.PNG)
 
 
-- Next continue writing in the terminal the following commands: 
+- Write in the terminal the following commands (it should insert the data in the xml files to the local SQL server):
 ```
 cd ..
 python3 insertSQL.py
 ```
-
-- This command should insert the data in the xml files to the local SQL server. Again you can check it using the commands 
+- Check it using the commands: 
 ```
 mysql -u 
 *your username* -p,
 ```
-- Then typing your password, and then using the database called **hackermxn**. Then you can use the query **SELECT * FROM cuentas;** to see all the records in the table. You should see something like this:
+- Type your password, and then use the database called **hackermxn**. Then you can use the query **SELECT * FROM cuentas;** to see all the records in the table. It shows:
 
 ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaacc.PNG)
 
-- Then you can use **ctrl + d** to close your session in the SQL server and you can continue.
-- Finally just type
+- Use **ctrl + d** to close your session in the SQL server and continue.
+- Type to plot separately all the accounts, the plot must be empty at first. Repeat this process and the plot should not be empty anymore.  
 ```
 python3 plotdb.py
 ```
-- This last step should plot separately all the accounts, therefore the plot should be empty at first. Repeat this process and the plot should not be empty anymore.  
-- After some iterations over these steps, you should be able to see something like this:
+- After some iterations over these steps, it shows:
 
 ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaccgraph.PNG)
  

@@ -11,16 +11,10 @@ Our purpose is to show the growth of people's interest in the feminist movement 
 This project is supported by the interest in developing a space that allows the person to use this information for some type of research, to acquire resources that help them build a position with foundations towards this issue. <br/>
 ## RESOURCES
 We provide a list of links to informative instagram accounts that are experts on the subject with which we plan to work. More will be added or some will be deleted, it all depends on the development of the project..
-<br/>Instagram accounts:<br/>
-	1. https://instagram.com/latraductoramx?igshid=11go45mzqjwn4<br/>
-	2. https://instagram.com/lasdelaquelarre.feministas?igshid=6lcgtemnly56<br/>
-	3. https://instagram.com/malvestida?igshid=1qbq8j88tgmz<br/>
-	4. https://instagram.com/mxmareaverde?igshid=bm4zn2fn66zs<br/>
-	5. https://instagram.com/sinfronterascolectivo?igshid=1wr4nl7o3qzk5<br/>
-	6. https://instagram.com/onumujeresmx?igshid=1e85q6r0aqkw8<br/>
+<br/>Instagram accounts in BIBLIOGRAPHY <br/>
 </br>
 ## REQUIREMENTS
-- python3
+- python3 (link: https://www.python.org/downloads/)
 - requests library
 - bs4 library
 - lxml parser library
@@ -80,7 +74,7 @@ python3 insta.py
  ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/ter1.PNG)
 
 
-- Write in the terminal the following commands (it should insert the data in the xml files to the local SQL server):
+- Write in the terminal to insert the data in the xml files to the local SQL server:
 ```
 cd ..
 python3 insertSQL.py
@@ -90,7 +84,8 @@ python3 insertSQL.py
 mysql -u 
 *your username* -p,
 ```
-- Type your password, and then use the database called **hackermxn**. Then you can use the query **SELECT * FROM cuentas;** to see all the records in the table. It shows:
+- Type your password, and then use the database called **hackermxn**.
+- Write the query **SELECT * FROM cuentas;** to see all the records in the table. It shows:
 
 ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/instaacc.PNG)
 
@@ -113,7 +108,7 @@ As a team, we think that Feminism is a very important topic, but highly criticiz
  - Extreme programming
  
 ## IMPLEMENTATION AND TESTS
-- We wanted to use this proyect to visualize the growth of specific intagram accounts. In order to do this, the code should be able to run periodically, thats why we decided to use cron to schedule running times and keep our proyect running automatically. In our case we decided to configure crontab so that the proyect would run every 4 hours.
+- We wanted to use this proyect to visualize the growth of specific intagram accounts. The code need to run periodically, thats why we decided to use cron to schedule running times and keep the proyect running automatically. In our case we decided to configure crontab so that the proyect would run every 4 hours.
 
 ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/crontab.PNG)
 
@@ -132,6 +127,12 @@ As a team, we think that Feminism is a very important topic, but highly criticiz
 ## CONCLUSIONS
 Our project is not done yet, we want to create a full platform to help people interested in feminist movement, to know more about it with the correct information, news, books, etc. 
 ## BIBLIOGRAPHY
-
+- Data Source from instagram accounts.
+	1. https://instagram.com/latraductoramx?igshid=11go45mzqjwn4<br/>
+	2. https://instagram.com/lasdelaquelarre.feministas?igshid=6lcgtemnly56<br/>
+	3. https://instagram.com/malvestida?igshid=1qbq8j88tgmz<br/>
+	4. https://instagram.com/mxmareaverde?igshid=bm4zn2fn66zs<br/>
+	5. https://instagram.com/sinfronterascolectivo?igshid=1wr4nl7o3qzk5<br/>
+	6. https://instagram.com/onumujeresmx?igshid=1e85q6r0aqkw8<br/>
  
 

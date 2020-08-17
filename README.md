@@ -55,7 +55,7 @@ pip3 install xml
 pip3 install matplotlib
 ```
 ### Data Base
-1. Install Server sql in your computer:
+1. Install Server SQL Server:
 ```
 sudo apt install mysql-server
 ```
@@ -75,7 +75,7 @@ cd static
 cd xmls
 python3 insta.py
 ```
-- The xml files should have been generated. You can check it using the command ls, and you should see the files: 
+- The xml files should have been generated. You can check it using the command ls, and it shows: 
 
  ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/ter1.PNG)
 
@@ -113,7 +113,7 @@ As a team, we think that Feminism is a very important topic, but highly criticiz
  - Extreme programming
  
 ## IMPLEMENTATION AND TESTS
-- We wanted to use this proyect to visualize the growth in certain intagram accounts. In order to do this, the code should be able to run periodically, thats why we decided to use cron to schedule running times and keep our proyect running automatically. In our case we decided to configure crontab so that our proyect would run every 4 hours.
+- We wanted to use this proyect to visualize the growth of specific intagram accounts. In order to do this, the code should be able to run periodically, thats why we decided to use cron to schedule running times and keep our proyect running automatically. In our case we decided to configure crontab so that the proyect would run every 4 hours.
 
 ![alt text](https://raw.githubusercontent.com/RafaPe/rep_prueba/master/resources/crontab.PNG)
 
@@ -131,7 +131,7 @@ As a team, we think that Feminism is a very important topic, but highly criticiz
 
 ## CONCLUSIONS
 Our project is not done yet, we want to create a full platform to help people interested in feminist movement, to know more about it with the correct information, news, books, etc. 
-
+## BIBLIOGRAPHY
 
  
 

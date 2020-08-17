@@ -30,7 +30,7 @@ We provide a list of links to informative instagram accounts that are experts on
 - Instagram
 
 ## ARCHITECTURE
-- **Data Source:** Instagram
+- **Data Source:** Instagram accounts
 - **Storage system:** MySQL
 - **Processing system:** Python, mysql, json
 - **Data visualization** matplotlib.pyplot
